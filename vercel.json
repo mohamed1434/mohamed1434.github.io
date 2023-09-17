@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "fetchPosts": {
+      "handler": "@/lib/actions/thread.actions",
+      "timeout": 20
+    }
+  }
+}
